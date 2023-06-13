@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8596ba76-0fdf-4705-a09a-437c12ea5d3a" name="변경" comment="20230613">
-      <change afterPath="$PROJECT_DIR$/src/_20230613/BJ1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20230613/BJ9498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -55,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BJ1330">
+  <component name="RunManager" selected="애플리케이션.Main">
     <configuration name="BJ1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_20230613.BJ1008" />
       <module name="Algorithm" />
@@ -98,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BJ1330" />
         <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.BJ1330" />
         <item itemvalue="애플리케이션.BJ10926" />
         <item itemvalue="애플리케이션.BJ1008" />
       </list>
@@ -114,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686631793683</updated>
       <workItem from="1686631794985" duration="3022000" />
-      <workItem from="1686634840968" duration="1332000" />
+      <workItem from="1686634840968" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1686634769123</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686634930269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20230613">
+      <created>1686636196277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686636196277</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
