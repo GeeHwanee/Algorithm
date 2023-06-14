@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8596ba76-0fdf-4705-a09a-437c12ea5d3a" name="변경" comment="20230613">
-      <change afterPath="$PROJECT_DIR$/src/_20230613/BJ2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20230614/BJ2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20230614/BJ2577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20230614/BJ2675.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -54,6 +56,7 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_20230614" />
       <recent name="_20230613" />
       <recent name="" />
     </key>
@@ -118,7 +121,8 @@
       <updated>1686631793683</updated>
       <workItem from="1686631794985" duration="3022000" />
       <workItem from="1686634840968" duration="4884000" />
-      <workItem from="1686640058214" duration="536000" />
+      <workItem from="1686640058214" duration="551000" />
+      <workItem from="1686702514075" duration="4712000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1686634769123</created>
@@ -176,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686639427951</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20230613">
+      <created>1686640600863</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686640600864</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
