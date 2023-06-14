@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8596ba76-0fdf-4705-a09a-437c12ea5d3a" name="변경" comment="20230614">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +121,7 @@
       <workItem from="1686631794985" duration="3022000" />
       <workItem from="1686634840968" duration="4884000" />
       <workItem from="1686640058214" duration="551000" />
-      <workItem from="1686702514075" duration="11295000" />
+      <workItem from="1686702514075" duration="11374000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1686634769123</created>
@@ -195,7 +193,35 @@
       <option name="project" value="LOCAL" />
       <updated>1686707409303</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20230614">
+      <created>1686713989158</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686713989158</updated>
+    </task>
+    <task id="LOCAL-00012" summary="20230614">
+      <created>1686714014403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686714014403</updated>
+    </task>
+    <task id="LOCAL-00013" summary="20230614">
+      <created>1686714029520</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686714029520</updated>
+    </task>
+    <task id="LOCAL-00014" summary="20230614">
+      <created>1686714043493</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686714043493</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
