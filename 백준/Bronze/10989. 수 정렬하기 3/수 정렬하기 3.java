@@ -12,7 +12,7 @@ public class Main {
         }
        int[] newList = Arrays.stream(list).sorted().toArray();
         for (int i = 0; i < N; i++) {
-            bufferedWriter.write(Integer.toString(newList[i])+"\n");
+            bufferedWriter.write(newList[i] +"\n");
         }
         bufferedWriter.close();
     }
